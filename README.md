@@ -33,6 +33,7 @@ Data Modeling
 - PowerQuery (ETL)
 - PowerPivot
 - DAX 
+- Conditional Formatting
 
 # Skills Demonstrated
 - Data Sourcing
