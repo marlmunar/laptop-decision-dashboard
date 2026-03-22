@@ -21,8 +21,8 @@ Data Modeling
 - Combined:
   - Laptop specifications dataset
   - Benchmark dataset
-  - Created relationships between datasets
-  - Applied normalization and weighted combination to generate scores
+- Created relationships between datasets
+- Applied normalization and weighted combination to generate scores
 
 # Key Features
 - Weighted scoring system for ranking laptops
