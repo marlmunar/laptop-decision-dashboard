@@ -11,7 +11,7 @@ This project is a decision-support dashboard designed to help users rank laptops
 # Data Pipeline
 Data Extraction
 - Imported web data using PowerQuery
-- Data Transformation
+Data Transformation
 - Cleaned and formatted raw datasets
 - Applied programmatic transformations when needed
 - Standardized inconsistent values
@@ -20,7 +20,7 @@ Data Modeling
   - Laptop specifications dataset
   - Benchmark dataset
   - Created relationships between datasets
-  - Applied feature engineering and normalization
+  - Applied normalization and weighted combination to generate scores
 
 # Key Features
 - Weighted scoring system for ranking laptops
