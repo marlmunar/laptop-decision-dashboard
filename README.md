@@ -2,6 +2,8 @@
 # Overview
 This project is a decision-support dashboard designed to help users rank laptops based on their preferences. It uses Excel’s ETL capabilities to extract and transform web data, combined with advanced data modeling and scoring techniques.
 
+<img width="1350" height="742" alt="image" src="https://github.com/user-attachments/assets/bc0aa16c-3462-4c6f-834f-f7ea4a01ba8d" />
+
 # Objectives
 - Build a structured dataset from raw web data
 - Normalize laptop specifications for fair comparison
